@@ -217,6 +217,14 @@ transform: translateY(-20px);
     }
 }
 /*Cabezera*/
-
+.contenedor {
+    background-image: url(img/fondoNeo.jpg);
+    text-align: center;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fafdfd;
+    padding: 50px;
+}
 
  
