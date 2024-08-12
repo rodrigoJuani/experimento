@@ -143,8 +143,9 @@
 }
 /*imagenes apiladas*/
 body{
-    font-family: sans-serif;
-background-color: aquamarine;
+    background-image: url("img/fondoDesenfo.jpg");
+    background-position: center;
+    background-size: cover;
 }
 .imagenes-container{
    
@@ -215,7 +216,7 @@ transform: translateY(-20px);
         height: 180vh;
     }
 }
-
+/*Cabezera*/
 
 
  
