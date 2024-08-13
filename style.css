@@ -165,3 +165,45 @@ body {
   }
 
   /*Estilos para los skills*/
+/*Estilos para los skills*/
+.m-15px-tb {
+  margin-top: 15px;
+  padding-bottom: 15px;
+}
+
+.ml-auto {
+  margin-left: auto !important;
+}
+
+.skills-box h3 {
+  color: #fff;
+  margin: 0 0 15px;
+}
+
+.h3, h3 {
+  font-size: 1.75rem;
+}
+
+.skills {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.m-1 {
+  margin: .25rem !important;
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+  border-style: none;
+}
+
+body {
+  color: rgba(255, 255, 255, 0.8);
+  font-family: "Rubik", monospac;
+  line-height: 1.7;
+  font-size: 15px;
+  font-weight: 300;
+}
